@@ -1,0 +1,45 @@
+# === Secrets — NEVER commit these ============================================
+.env
+
+# === Python ===================================================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+*.whl
+
+# === Virtual environments =====================================================
+venv/
+.venv/
+env/
+ENV/
+
+# === Testing & Coverage =======================================================
+.pytest_cache/
+.coverage
+htmlcov/
+*.xml
+
+# === IDE / Editor =============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# === Logs & Data (generated, not source) =====================================
+logs/*.log
+data/reports/
+data/*.csv
+data/*.xlsx
+
+# === Jupyter (if used for analysis) ==========================================
+.ipynb_checkpoints/
+*.ipynb
