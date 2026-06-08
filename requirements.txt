@@ -5,9 +5,6 @@ lxml==5.2.1               # Faster HTML/XML parser (used by BeautifulSoup)
 selenium==4.21.0          # For JavaScript-heavy sites (Phase 2)
 fake-useragent==1.5.1     # Rotate user agents to avoid blocks
 
-# ── Database ──────────────────────────────────────────────────────────────────
-psycopg2-binary==2.9.9    # PostgreSQL adapter
-SQLAlchemy==2.0.30        # ORM (makes SQL much cleaner in Phase 3)
 
 # ── Data Analysis & Reporting ─────────────────────────────────────────────────
 pandas==2.2.2             # Data analysis (Phase 5)
