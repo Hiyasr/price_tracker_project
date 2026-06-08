@@ -18,6 +18,7 @@ price_tracker/
 ├── data/            # Scraped data and reports
 ├── config.py        # All app settings
 └── requirements.txt
+test_run_ss # output screenshots
 ```
 
 ---
