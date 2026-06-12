@@ -7,27 +7,8 @@
     "rating": "74;",
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/hitech-mobiles-hype-earbudswhite/669160245908#bcrumbSearch:",
-    "source": "snapdeal"
-  },
-  {
-    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 13 ( Pack of 1 )",
-    "price": "Rs. 388",
-    "mrp": "Rs. 1,999",
-    "discount": "81% Off",
-    "rating": "76;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/7493990403667815719#bcrumbSearch:",
-    "source": "snapdeal"
-  },
-  {
-    "name": "ANDVYA Plain Cases Compatible For Silicon Nothing Phone 2A Plus ( Pack of 1 )",
-    "price": "Rs. 154",
-    "mrp": "Rs. 899",
-    "discount": "83% Off",
-    "rating": "90;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/andvya-plain-cases-compatible-for/673036930683#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "RMT Silicon Soft cases Compatible For Silicon iPhone 15 ( Pack of 1 )",
@@ -37,7 +18,30 @@
     "rating": "100;",
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/rmt-silicon-soft-cases-compatible/680995830635#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
+  },
+  {
+    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 13 ( Pack of 1 )",
+    "price": "Rs. 388",
+    "mrp": "Rs. 1,999",
+    "discount": "81% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/7493990403667815719#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "smartphones"
+  },
+  {
+    "name": "ANDVYA Plain Cases Compatible For Silicon Nothing Phone 2A Plus ( Pack of 1 )",
+    "price": "Rs. 154",
+    "mrp": "Rs. 899",
+    "discount": "83% Off",
+    "rating": "90;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/andvya-plain-cases-compatible-for/673036930683#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Plain Cases Compatible For Silicon iPhone 17 Pro ( Pack of 1 )",
@@ -47,27 +51,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-plain-cases-compatible-for/657905179190#bcrumbSearch:",
-    "source": "snapdeal"
-  },
-  {
-    "name": "BIG WINGS Shock Proof Case Compatible For Silicon Nothing Phone 1 ( Pack of 1 )",
-    "price": "Rs. 288",
-    "mrp": "Rs. 1,499",
-    "discount": "81% Off",
-    "rating": "100;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608168423525804#bcrumbSearch:",
-    "source": "snapdeal"
-  },
-  {
-    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 13 ( Pack of 1 )",
-    "price": "Rs. 388",
-    "mrp": "Rs. 1,999",
-    "discount": "81% Off",
-    "rating": "76;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6341068899060968743#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Silicon Nothing Phone 2 ( Pack of 1 )",
@@ -77,7 +62,30 @@
     "rating": "80;",
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/8070451163908818461#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
+  },
+  {
+    "name": "BIG WINGS Shock Proof Case Compatible For Silicon Nothing Phone 1 ( Pack of 1 )",
+    "price": "Rs. 288",
+    "mrp": "Rs. 1,499",
+    "discount": "81% Off",
+    "rating": "100;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608168423525804#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "smartphones"
+  },
+  {
+    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 13 ( Pack of 1 )",
+    "price": "Rs. 388",
+    "mrp": "Rs. 1,999",
+    "discount": "81% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6341068899060968743#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Silicon Nothing Phone 2 ( Pack of 1 )",
@@ -87,17 +95,19 @@
     "rating": "80;",
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608154695124509#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
-    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 14 ( Pack of 1 )",
-    "price": "Rs. 388",
-    "mrp": "Rs. 1,999",
+    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 13 mini ( Pack of 1 )",
+    "price": "Rs. 288",
+    "mrp": "Rs. 1,499",
     "discount": "81% Off",
     "rating": null,
     "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/7493990410155326437#bcrumbSearch:",
-    "source": "snapdeal"
+    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/655972047693#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Shock Proof Case Compatible For Silicon iPhone 15 ( Pack of 1 )",
@@ -107,7 +117,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-shock-proof-case-compatible/656670266309#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Shock Proof Case Compatible For Silicon iPhone 13 ( Pack of 1 )",
@@ -117,7 +128,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-shock-proof-case-compatible/656508238199#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Silicon Apple iPhone 13 Pro ( Pack of 1 )",
@@ -127,7 +139,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/8070451218748863857#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Plain Cases Compatible For Polycarbonate Apple iPhone 14 Pro Max ( Pack of 1 )",
@@ -137,7 +150,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-plain-cases-compatible/5764608155504102361#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "Case Need Plain Cases Compatible For Magnetic Cover Case iPhone 17 Pro ( Pack of 1 )",
@@ -147,7 +161,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/case-need-plain-cases-compatible/668154858760#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 15 Pro ( Pack of 1 )",
@@ -157,7 +172,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/8070451197727104537#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Plain Cases Compatible For Silicon Apple iPhone 16 plus ( Pack of 1 )",
@@ -167,7 +183,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-plain-cases-compatible-for/686170789658#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 16 ( Pack of 1 )",
@@ -177,7 +194,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/7493990451018994573#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 14 Pro ( Pack of 1 )",
@@ -187,7 +205,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/8070451151895815727#bcrumbSearch:",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Plain Cases Compatible For Silicon CMF by Nothing Phone 1 5G ( Pack of 1 )",
@@ -197,17 +216,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-plain-cases-compatible-for/653854832400#bcrumbSearch:",
-    "source": "snapdeal"
-  },
-  {
-    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 13 mini ( Pack of 1 )",
-    "price": "Rs. 288",
-    "mrp": "Rs. 1,499",
-    "discount": "81% Off",
-    "rating": null,
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/655972047693",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 15 Plus ( Pack of 1 )",
@@ -217,7 +227,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/660054171552",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Silicon Apple iPhone 11 ( Pack of 1 )",
@@ -227,7 +238,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/8070451207008303683",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Shock Proof Case Compatible For Silicon iPhone 13 ( Pack of 1 )",
@@ -237,7 +249,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-shock-proof-case-compatible/674527109372",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Plain Cases Compatible For Polycarbonate Apple iPhone 14 Pro ( Pack of 1 )",
@@ -247,7 +260,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-plain-cases-compatible/5188147447328185906",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Plain Cases Compatible For Silicon Apple iPhone 16 ( Pack of 1 )",
@@ -257,7 +271,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-plain-cases-compatible-for/648707687265",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 15 Pro ( Pack of 1 )",
@@ -267,7 +282,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608188513410585",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 14 Pro ( Pack of 1 )",
@@ -277,7 +293,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608147564949547",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Shock Proof Case Compatible For Silicon iPhone 15 ( Pack of 1 )",
@@ -287,7 +304,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-shock-proof-case-compatible/656347532314",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Shock Proof Case Compatible For Silicon iPhone 15 ( Pack of 1 )",
@@ -297,7 +315,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-shock-proof-case-compatible/679197450163",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 14 Pro Max ( Pack of 1 )",
@@ -307,7 +326,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/8070451211868999027",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Silicon Apple iPhone 15 Pro ( Pack of 1 )",
@@ -317,7 +337,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6917529658843455728",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Silicon Apple iPhone 6 ( Pack of 1 )",
@@ -327,7 +348,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608199704254370",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 14 Pro ( Pack of 1 )",
@@ -337,7 +359,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608142682121775",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 16 pro max ( Pack of 1 )",
@@ -347,7 +370,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608169661588729",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 14 Pro ( Pack of 1 )",
@@ -357,7 +381,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5188147390378698287",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 15 Pro ( Pack of 1 )",
@@ -367,7 +392,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6917529693120257561",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 15 Pro ( Pack of 1 )",
@@ -377,7 +403,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6917529675552888055",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Silicon Apple iPhone 12 Pro Max ( Pack of 1 )",
@@ -387,7 +414,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/637344491213",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Shock Proof Case Compatible For Silicon iPhone 13 ( Pack of 1 )",
@@ -397,7 +425,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-shock-proof-case-compatible/664896222196",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Shock Proof Case Compatible For Silicon iPhone 15 ( Pack of 1 )",
@@ -407,7 +436,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-shock-proof-case-compatible/618811565319",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 14 Pro Max ( Pack of 1 )",
@@ -417,7 +447,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608202655305075",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Plain Cases Compatible For Silicon Apple iPhone 16 plus ( Pack of 1 )",
@@ -427,7 +458,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-plain-cases-compatible-for/686854110068",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "Gemesha Plain Cases Compatible For Leather Iphone 13 Pro max ( Pack of 1 )",
@@ -437,7 +469,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/gemesha-plain-cases-compatible-for/669688983906",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Artificial Leather Apple iPhone 16 pro max ( Pack of 1 )",
@@ -447,7 +480,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6917529696550971216",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 16 plus ( Pack of 1 )",
@@ -457,7 +491,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/681511109920",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 15 Pro Max ( Pack of 1 )",
@@ -467,7 +502,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608152230885414",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 16 pro max ( Pack of 1 )",
@@ -477,7 +513,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6917529674268435705",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Plain Cases Compatible For Silicon Apple iPhone 16 plus ( Pack of 1 )",
@@ -487,7 +524,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-plain-cases-compatible-for/653237923981",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 15 Pro ( Pack of 1 )",
@@ -497,7 +535,19 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/660226748122",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
+  },
+  {
+    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 14 ( Pack of 1 )",
+    "price": "Rs. 388",
+    "mrp": "Rs. 1,999",
+    "discount": "81% Off",
+    "rating": null,
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/7493990410155326437",
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Artificial Leather Apple iPhone 16 ( Pack of 1 )",
@@ -507,7 +557,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6917529693997712847",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Shock Proof Case Compatible For Silicon iPhone 15 ( Pack of 1 )",
@@ -517,7 +568,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-shock-proof-case-compatible/679976753856",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Artificial Leather Apple iPhone 16 pro and Apple iPhone 16 pro max ( Pack of 1 )",
@@ -527,7 +579,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6917529655130116434",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 15 Pro ( Pack of 1 )",
@@ -537,7 +590,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608170946041079",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Silicon Apple iPhone 6 ( Pack of 1 )",
@@ -547,7 +601,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/8070451208917948322",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "ANDVYA Shock Proof Case Compatible For Silicon iPhone 15 ( Pack of 1 )",
@@ -557,7 +612,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/andvya-shock-proof-case-compatible/635415348952",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 16 pro ( Pack of 1 )",
@@ -567,17 +623,8 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/5764608146080958914",
-    "source": "snapdeal"
-  },
-  {
-    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 16 plus ( Pack of 1 )",
-    "price": "Rs. 288",
-    "mrp": "Rs. 1,499",
-    "discount": "81% Off",
-    "rating": null,
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6917529685547920661",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 15 ( Pack of 1 )",
@@ -587,7 +634,19 @@
     "rating": null,
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/659820527281",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
+  },
+  {
+    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Apple iPhone 16 plus ( Pack of 1 )",
+    "price": "Rs. 288",
+    "mrp": "Rs. 1,499",
+    "discount": "81% Off",
+    "rating": null,
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/6917529685547920661",
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
     "name": "Five-O Tempered Glass Compatible For iPhone 13 Pro ( Pack of 1 )",
@@ -597,606 +656,1041 @@
     "rating": "80;",
     "availability": "in_stock",
     "url": "https://www.snapdeal.com/product/fiveo-tempered-glass-compatible-for/631218795780",
-    "source": "snapdeal"
+    "source": "snapdeal",
+    "category": "smartphones"
   },
   {
-    "name": "Icynics Tempered Glass Compatible For OPPO A78 5G ( Pack of 1 )",
-    "price": "Rs. 189",
-    "mrp": "Rs. 699",
-    "discount": "73% Off",
-    "rating": "100;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/icynics-tempered-glass-compatible-for/681025820940",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Waterproof Bike Mobile Mount Adjustable Holder for Bike Handlebars, Scooty, Cycle 360° Adjustable Universal Bike Phone Mount Bike Phone Holder with Touch-Screen",
-    "price": "Rs. 175",
-    "mrp": "Rs. 999",
-    "discount": "82% Off",
-    "rating": "72;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/waterproof-bike-mobile-mount-adjustable/682969794202",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Dealseven Fashion Car Mobile Charger CRA031 Black",
-    "price": "Rs. 244",
-    "mrp": "Rs. 599",
-    "discount": "59% Off",
-    "rating": "100;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/dealseven-fashion-car-mobile-charger/676868846716",
-    "source": "snapdeal"
-  },
-  {
-    "name": "THRIFTKART - 3 in 1 Fast Charging Cable,Portable 120W Charger Cord/Wire Compatible with iOS,Type-C,Micro Phones,Car/Travel 6A Retractable Zinc Alloy Charging Data Cable,Light Emitting Diode (Multicolor)",
-    "price": "Rs. 168",
-    "mrp": "Rs. 999",
-    "discount": "83% Off",
-    "rating": "76;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/thriftkart-3-in-1-fast/662169505637",
-    "source": "snapdeal"
-  },
-  {
-    "name": "TVS Star Sport Black USB Bike Charger",
-    "price": "Rs. 173",
-    "mrp": "Rs. 699",
-    "discount": "75% Off",
-    "rating": null,
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/tvs-star-sport-black-usb/625871139696",
-    "source": "snapdeal"
-  },
-  {
-    "name": "160W Super Fast GaN Charger | Ultra-Fast PD Charging Adapter for Phone, Laptop & Tablet | Multi-Device Rapid Charging",
-    "price": "Rs. 496",
-    "mrp": "Rs. 999",
-    "discount": "50% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/160w-super-fast-gan-charger/646565582970",
-    "source": "snapdeal"
-  },
-  {
-    "name": "MS Wholesellar Bluetooth Selfie Stick ( Black )",
-    "price": "Rs. 282",
-    "mrp": "Rs. 999",
-    "discount": "72% Off",
-    "rating": "96;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/ms-wholesellar-bluetooth-selfie-stick/665033417657",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Hybite Premium Selfie Stick, Blue tooth Extendable Selfie Stick Tri pod with Led Light Wireless Remote and Portable Tri pod Stand Compatible for All iPhone and Android Smartphone",
-    "price": "Rs. 292",
-    "mrp": "Rs. 999",
-    "discount": "71% Off",
-    "rating": "82;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/hybite-premium-selfie-stick-blue/638464915190",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Multipurpose Adhesive Glue | Jewelry, Beads, Clothes, Shoes, Fabrics,Screen Repair, Metal, Stone, Glass, Mobile Phones, Artificial Crystal Crafts (Pack of 2)",
-    "price": "Rs. 201",
-    "mrp": "Rs. 499",
-    "discount": "60% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/multipurpose-adhesive-glue-jewelry-beads/626627769642",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Portronics Clamp M2 Adjustable Car Mobile Phone Holder Stand for Dashboard & Windshield, 360degree Rotational, Strong Suction Cup, Compatible with 4 to 6 inch Devices(Black)",
-    "price": "Rs. 261",
-    "mrp": "Rs. 899",
-    "discount": "71% Off",
-    "rating": "88;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/portronics-black-single-clamp-car/683434837435",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Icynics Tempered Glass Compatible For Redmi Note 10s ( Pack of 1 )",
-    "price": "Rs. 235",
-    "mrp": "Rs. 699",
-    "discount": "66% Off",
-    "rating": "100;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/icynics-tempered-glass-compatible-for/651072825985",
-    "source": "snapdeal"
-  },
-  {
-    "name": "LAPSTER 24pcs Spiral Cable Protectors for Charger, Wires, Data Charger Cable Protector for Computers, Cell Phones etc.(Black)",
-    "price": "Rs. 96",
-    "mrp": "Rs. 299",
-    "discount": "68% Off",
-    "rating": "84;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/lapster-24pcs-spiral-cable-protectors/658184355959",
-    "source": "snapdeal"
-  },
-  {
-    "name": "GMPex Waterproof Pouch Bag Cover for Mobile Phone (Pack of 4) Travel Pouch",
-    "price": "Rs. 199",
-    "mrp": "Rs. 799",
-    "discount": "75% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/gmpex-waterproof-pouch-bag-cover/650009998921",
-    "source": "snapdeal"
-  },
-  {
-    "name": "NAFA Mini Tripod Adjustable with Mobile clip holder Mobile,Mobile Phone & Camera",
-    "price": "Rs. 305",
-    "mrp": "Rs. 999",
-    "discount": "69% Off",
-    "rating": "86;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/nafa-mini-tripod-adjustable-with/624808352279",
-    "source": "snapdeal"
-  },
-  {
-    "name": "THRIFTKART - 2PC Swim cover for mobiles waterproof mobile cover for photography | underwater pouch for phone (ASSORTED COLOR)",
-    "price": "Rs. 186",
-    "mrp": "Rs. 599",
-    "discount": "69% Off",
-    "rating": "82;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/thriftkart-2pc-swim-cover-for/679462583143",
-    "source": "snapdeal"
-  },
-  {
-    "name": "DeoDap Wall Mounted Storage Case with Mobile Phone Charging Port Plug Holder - Pack of 4 Pcs",
-    "price": "Rs. 176",
-    "mrp": "Rs. 319",
-    "discount": "45% Off",
-    "rating": "82;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/deodap-wall-mounted-storage-case/651204242216",
-    "source": "snapdeal"
-  },
-  {
-    "name": "thriftkart - Multi-Purpose Mobile Charging Stand For Wall Multi Plug For Upto 7 Inch Mobile Stand For Wall Plastic Holder Universal Socket Mobile Charger Stand Holder Wall (assorted color) Wall Mount",
-    "price": "Rs. 166",
-    "mrp": "Rs. 599",
-    "discount": "72% Off",
-    "rating": "78;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/thriftkart-multipurpose-mobile-charging-stand/620473422486",
-    "source": "snapdeal"
-  },
-  {
-    "name": "MS Wholesellar Universal Heavy Duty Metal Bike Mobile Holder | 360° Rotation | Anti-Slip Grip | Adjustable Handlebar Mount Stand for Smartphones",
-    "price": "Rs. 250",
-    "mrp": "Rs. 999",
-    "discount": "75% Off",
-    "rating": "72;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/ms-wholesellar-universal-heavy-duty/654003772142",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Motorcycle Bike Mobile Phone USB Charger Power Adapter 12v (Waterproof)",
-    "price": "Rs. 249",
-    "mrp": "Rs. 499",
-    "discount": "50% Off",
-    "rating": "82;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/motorcycle-bike-mobile-phone-usb/621320057863",
-    "source": "snapdeal"
-  },
-  {
-    "name": "UniBoss Car Mobile Charger 38W Fast Charging Black",
-    "price": "Rs. 341",
-    "mrp": "Rs. 1,999",
-    "discount": "83% Off",
-    "rating": "78;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/uniboss-car-mobile-charger-38w/674675209363",
-    "source": "snapdeal"
-  },
-  {
-    "name": "SAPI'S Bike Mobile Holder (Black)",
-    "price": "Rs. 222",
-    "mrp": "Rs. 799",
-    "discount": "72% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/sapis-bike-mobile-holder-black/676517117279",
-    "source": "snapdeal"
-  },
-  {
-    "name": "U7 25 Watt PD Fast Charger Supports Fast Charge with Type C to C Type Cable, Fast Charging Mobile Charger for Sam-sung & I-Phone Devices - Black",
-    "price": "Rs. 380",
-    "mrp": "Rs. 1,999",
-    "discount": "81% Off",
-    "rating": "88;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/u7-25-watt-pd-fast/627834466209",
-    "source": "snapdeal"
-  },
-  {
-    "name": "UniBoss Car Mobile Charger 51WDual Fast Charger Black",
-    "price": "Rs. 263",
-    "mrp": "Rs. 1,499",
-    "discount": "82% Off",
-    "rating": "84;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/uniboss-car-mobile-charger-51wdual/635056594918",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Hero All Bike Model Black USB Bike Charger",
-    "price": "Rs. 173",
-    "mrp": "Rs. 829",
-    "discount": "79% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/hero-all-bike-model-black/671212493606",
-    "source": "snapdeal"
-  },
-  {
-    "name": "RMT Bluetooth Selfie Stick ( Black )",
-    "price": "Rs. 222",
-    "mrp": "Rs. 1,899",
-    "discount": "88% Off",
-    "rating": "76;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/rmt-bluetooth-selfie-stick-black-/674219729216",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Hybite Premium Selfie Stick, Blue tooth Extendable Selfie Stick Tri pod with Led Light Wireless Remote and Portable Tri pod Stand Compatible for All iPhone and Android Smartphone",
-    "price": "Rs. 265",
-    "mrp": "Rs. 999",
-    "discount": "73% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/hybite-premium-selfie-stick-blue/635726749975",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Tizum Universal Car Mobile Holder Stand| Strong Suction Cup, Double Shift Locking for Dashboard Windshield| Quick Release, Long Telescopic Arm, 360° Rotatable Head| All Mobile Phone, Black",
-    "price": "Rs. 308",
-    "mrp": "Rs. 699",
-    "discount": "56% Off",
-    "rating": "86;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/tizum-universal-car-mobile-holder/655141411496",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Portronics POR-122 MODESK Universal Mobile Holder Stand (Black) for all smartphones",
-    "price": "Rs. 135",
-    "mrp": "Rs. 699",
-    "discount": "81% Off",
-    "rating": "88;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/portronics-por122-modesk-universal-mobile/669950932247",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Icynics Tempered Glass Compatible For vivo Y28 5G ( Pack of 1 )",
-    "price": "Rs. 235",
-    "mrp": "Rs. 699",
-    "discount": "66% Off",
-    "rating": null,
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/icynics-tempered-glass-compatible-for/674009657033",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Waterproof All Mobile Phone Pouch Rain Cover",
-    "price": "Rs. 167",
-    "mrp": "Rs. 599",
-    "discount": "72% Off",
+    "name": "Zebronics Zeb-BRO+ in Ear Wired Earphone with Mic, 3.5mm Jack 1.2meter Cable, Multi Function Button 14mm Driver",
+    "price": "Rs. 231",
+    "mrp": "Rs. 349",
+    "discount": "34% Off",
     "rating": "90;",
     "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/waterproof-all-mobile-phone-pouch/659877871441",
-    "source": "snapdeal"
+    "url": "https://www.snapdeal.com/product/zebronics-zebbro-in-ear-wired/624092846937#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
   },
   {
-    "name": "NEXORA 360° Vaccum Magnetic Phones Holder, Magnetic Car Phone Mount,Hands-Free Suction Cup Phones Holder for Car/Gym/Mirror/Shower,Mount Compatible All Mobile Phones Holder",
-    "price": "Rs. 312",
-    "mrp": "Rs. 999",
-    "discount": "69% Off",
-    "rating": "70;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/nexora-360-vaccum-magnetic-phones/655621245547",
-    "source": "snapdeal"
-  },
-  {
-    "name": "NAFA Mini Tripod Adjustable with Mobile clip holder Mobile,Mobile Phone & Camera",
-    "price": "Rs. 259",
-    "mrp": "Rs. 999",
-    "discount": "74% Off",
-    "rating": "84;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/nafa-mini-tripod-adjustable-with/666592053425",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Silicone Suction Phone Case | Hands-Free Phone Holder with 24 Strong Suction Cups | Wall, Mirror & Car Mount Mobile Cover for iPhone & Android Smartphones (Multicolor - 1 Pack )",
-    "price": "Rs. 123",
-    "mrp": "Rs. 199",
-    "discount": "38% Off",
-    "rating": "100;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/silicone-suction-phone-case-handsfree/649429081085",
-    "source": "snapdeal"
-  },
-  {
-    "name": "GMPex Waterproof Pouch Bag Cover for Mobile Phone (Pack of 1) Travel Pouch",
-    "price": "Rs. 123",
-    "mrp": "Rs. 499",
-    "discount": "75% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/gmpex-waterproof-pouch-bag-cover/657310827113",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Universal Bike Mobile Stand Metal Body 360 Degree Rotating | Mirror Cradle Stand Full Metal Body Bike & Scooty Mobile Holder Stand for Bicycle, Motorcycle, Scooty with All Smartphones",
-    "price": "Rs. 197",
-    "mrp": "Rs. 499",
-    "discount": "61% Off",
-    "rating": "82;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/universal-bike-mobile-stand-metal/626318451891",
-    "source": "snapdeal"
-  },
-  {
-    "name": "5 In 1 Multi Pin Universal Portable Adapter And Car Mobile Charging Cable For (iPhone,Type C and Micro USB)",
-    "price": "Rs. 228",
-    "mrp": "Rs. 999",
-    "discount": "77% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/thriftkart-car-mobile-charger-5/643705858919",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Bike Mobile Charge Faster ? Dual USB Motorcycle Charging Socket",
-    "price": "Rs. 268",
-    "mrp": "Rs. 499",
-    "discount": "46% Off",
-    "rating": "78;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/bike-mobile-charge-faster-dual/663197890495",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Shop To Shop Bluetooth Selfie Flash Light ( Black )",
-    "price": "Rs. 282",
-    "mrp": "Rs. 999",
-    "discount": "72% Off",
-    "rating": "82;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/shop-to-shop-bluetooth-selfie/680524288266",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Mobile Phone Charging Stand, Multi-Functional Storage Holder, Bedside Fixed Rack, Bedroom, Office Accessories",
-    "price": "Rs. 147",
-    "mrp": "Rs. 699",
-    "discount": "79% Off",
-    "rating": "86;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/mobile-phone-charging-stand-multifunctional/671299383574",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Elv Remote Holder Mobile Stand for Smartphones ( White )",
+    "name": "DEFLOC SPORTS 00 In Ear Wired With Mic Headphones/Earphones",
     "price": "Rs. 181",
-    "mrp": "Rs. 299",
-    "discount": "39% Off",
-    "rating": "86;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/elv-remote-holder-mobile-stand/674188993382",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Universal Smartphone C2 Mobile Holder",
-    "price": "Rs. 205",
-    "mrp": "Rs. 599",
-    "discount": "66% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/universal-smartphone-c2-mobile-holder/634947128098",
-    "source": "snapdeal"
-  },
-  {
-    "name": "UniBoss Car Mobile Charger Turbo & Fast QC PD Black",
-    "price": "Rs. 319",
-    "mrp": "Rs. 1,599",
-    "discount": "80% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/uniboss-car-mobile-charger-turbo/677318741799",
-    "source": "snapdeal"
-  },
-  {
-    "name": "U7 25Watt PD Fast Charger Supports Fast Charge with Type C to C Type Cable, Fast Charging Mobile Charger for Sam-sung & I-Phone Devices",
-    "price": "Rs. 399",
     "mrp": "Rs. 1,999",
-    "discount": "80% Off",
-    "rating": "86;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/u7-25watt-super-fast-charger/672821238401",
-    "source": "snapdeal"
-  },
-  {
-    "name": "CRAYLUXE Bluetooth Tripod ( Black )",
-    "price": "Rs. 507",
-    "mrp": "Rs. 1,499",
-    "discount": "66% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/crayluxe-bluetooth-tripod-black-/647652253631",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Honda All Bike Model Black USB Bike Charger",
-    "price": "Rs. 193",
-    "mrp": "Rs. 699",
-    "discount": "72% Off",
-    "rating": null,
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/honda-all-bike-model-black/686247654326",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Elv Adjustable Mobile Holder for Smartphones and Tablets ( Black )",
-    "price": "Rs. 378",
-    "mrp": "Rs. 1,499",
-    "discount": "75% Off",
-    "rating": "88;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/elv-aluminum-adjustable-mobile-phone/5764608141950029910",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Icynics Tempered Glass Compatible For Realme C65 5G ( Pack of 1 )",
-    "price": "Rs. 235",
-    "mrp": "Rs. 699",
-    "discount": "66% Off",
-    "rating": "100;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/icynics-tempered-glass-compatible-for/634039221544",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Lapster 28 pcs Mix Spiral Charger Spiral Charger Cable Protectors for Wires Data Cable Saver Charging Cord Protective Cable Cover",
-    "price": "Rs. 135",
-    "mrp": "Rs. 399",
-    "discount": "66% Off",
-    "rating": "88;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/lapster-28-pcs-mix-spiral/685748050383",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Icynics Tempered Glass Compatible For Motorola G64 5G ( Pack of 1 )",
-    "price": "Rs. 235",
-    "mrp": "Rs. 699",
-    "discount": "66% Off",
-    "rating": "100;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/icynics-tempered-glass-compatible-for/659588156935",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Hybite Mobile Phone Stand 360° Rotation Height and Angle Adjustable Cell Phone Stand for Desk Office Foldable Desktop Phone Holder for Smartphone",
-    "price": "Rs. 198",
-    "mrp": "Rs. 999",
-    "discount": "80% Off",
-    "rating": "82;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/mobile-phone-stand-360-rotation/622500114744",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Suction Phone Case with 24 Cups | Silicone Hands-Free Mobile Cover for Wall, Mirror, Car Dashboard & Tiles | Universal Stick-On Holder for iPhone & Android Smartphones (Multicolor - 1 Pack )",
-    "price": "Rs. 118",
-    "mrp": "Rs. 199",
-    "discount": "41% Off",
-    "rating": "90;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/suction-phone-case-with-24/637017164137",
-    "source": "snapdeal"
-  },
-  {
-    "name": "THRIFTKART - 2 PC Mobile Phone Holder, Pen Stand, Wall Mounted Storage Box Remote Storage Organizer Case for AC, TV REMOTE, Phone Charger Plug Holder",
-    "price": "Rs. 163",
-    "mrp": "Rs. 599",
-    "discount": "73% Off",
-    "rating": "80;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/thriftkart-2-pc-mobile-phone/682216666787",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Waterproof All Mobile Phone Pouch Rain Cover",
-    "price": "Rs. 167",
-    "mrp": "Rs. 599",
-    "discount": "72% Off",
-    "rating": "86;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/waterproof-all-mobile-phone-pouch/644884010119",
-    "source": "snapdeal"
-  },
-  {
-    "name": "THRIFTKART - Type-C Adapter Micro V8 Female to Type-C Male Converter Supports Ultra-Fast Charging and High-Speed Data Transmission for All Type-C Supported Mobile Smart Phones(1PC-ONLY)",
-    "price": "Rs. 159",
-    "mrp": "Rs. 499",
-    "discount": "68% Off",
+    "discount": "91% Off",
     "rating": "74;",
     "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/thriftkart-typec-adapter-micro-v8/673061654757",
-    "source": "snapdeal"
+    "url": "https://www.snapdeal.com/product/defloc-sports-00-in-ear/669152959291#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
   },
   {
-    "name": "Mobile Holder Portable Three-Sided Triangle Desktop Stand Mobile Paradise Universal Phone Pyramid Shape Holder Desktop Stand (Pack of 1)",
-    "price": "Rs. 134",
-    "mrp": "Rs. 599",
-    "discount": "78% Off",
-    "rating": "90;",
-    "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/mobile-holder-portable-threesided-triangle/618730535356",
-    "source": "snapdeal"
-  },
-  {
-    "name": "Elv Foldable Mobile Stand for Smartphones and Tablets ( White )",
-    "price": "Rs. 181",
-    "mrp": "Rs. 499",
-    "discount": "64% Off",
+    "name": "Neo BT 700 Bluetooth True Wireless (TWS) On Ear 5 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Assorted",
+    "price": "Rs. 280",
+    "mrp": "Rs. 699",
+    "discount": "60% Off",
     "rating": "88;",
     "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/elv-foldable-mobile-stand-for/678405345843",
-    "source": "snapdeal"
+    "url": "https://www.snapdeal.com/product/neo-bt-700-bluetooth-true/625722733487#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
   },
   {
-    "name": "Icynics Tempered Glass Compatible For Redmi Note 13 5G ( Pack of 1 )",
-    "price": "Rs. 235",
-    "mrp": "Rs. 699",
-    "discount": "66% Off",
-    "rating": "100;",
+    "name": "SHIELD S8 Tiitan Wired Earphone with Built-in Microphone",
+    "price": "Rs. 163",
+    "mrp": "Rs. 999",
+    "discount": "84% Off",
+    "rating": "70;",
     "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/icynics-tempered-glass-compatible-for/626502572927",
-    "source": "snapdeal"
+    "url": "https://www.snapdeal.com/product/shield-s8-tiitan-wired-earphone/629756077525#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
   },
   {
-    "name": "ANDVYA Plain Cases Compatible For Silicon Vivo Y31 ( Pack of 1 )",
-    "price": "Rs. 154",
-    "mrp": "Rs. 899",
-    "discount": "83% Off",
+    "name": "OLIVEOPS P9 Black Headphones Bluetooth Bluetooth Headphone On Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+    "price": "Rs. 494",
+    "mrp": "Rs. 2,999",
+    "discount": "84% Off",
+    "rating": "78;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/oliveops-p9-black-headphones-bluetooth/640189870868#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "XYBEL WRD-EPH-WHITE-1NOS 3.5 mm Wired Earphone In Ear Powerfull Bass White",
+    "price": "Rs. 175",
+    "mrp": "Rs. 799",
+    "discount": "78% Off",
+    "rating": "82;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/xybel-wrdephwhite1nos-35-mm-wired/645276723804#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo P9 Bluetooth Bluetooth Headphone On Ear 2 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+    "price": "Rs. 476",
+    "mrp": "Rs. 1,299",
+    "discount": "63% Off",
+    "rating": "74;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-p9-bluetooth-bluetooth-headphone/664789200763#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "SHIELD S6 Tiitan Wired Earphone with Mic",
+    "price": "Rs. 163",
+    "mrp": "Rs. 999",
+    "discount": "84% Off",
+    "rating": "70;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/shield-s6-tiitan-wired-earphone/621096872109#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "U7 Powerful Bass Wired Earphone, In Ear Wired Earphones with Mic - White",
+    "price": "Rs. 272",
+    "mrp": "Rs. 999",
+    "discount": "73% Off",
+    "rating": "88;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/u7-powerful-bass-wired-earphone/636768256191#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "OLIVEOPS P9 Black Headphones Bluetooth Bluetooth Headphone Over Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+    "price": "Rs. 499",
+    "mrp": "Rs. 1,999",
+    "discount": "75% Off",
+    "rating": "78;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/oliveops-p9-black-headphones-bluetooth/633257701533#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Portronics POR-2148 Type C Wired Earphone In Ear Passive Noise cancellation Black",
+    "price": "Rs. 282",
+    "mrp": "Rs. 1,499",
+    "discount": "81% Off",
+    "rating": "84;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/portronics-por2148-type-c-wired/667479243955#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo HEDU Bluetooth Bluetooth Headphone On Ear 2 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+    "price": "Rs. 476",
+    "mrp": "Rs. 1,299",
+    "discount": "63% Off",
+    "rating": "82;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-hedu-bluetooth-bluetooth-headphone/649396538155#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "ZEBRONICS Bro in Ear Wired Earphones with Mic, 3.5mm Audio Jack, 10mm Drivers, Phone/Tablet Compatible (Black)",
+    "price": "Rs. 231",
+    "mrp": "Rs. 299",
+    "discount": "23% Off",
     "rating": "96;",
     "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/andvya-plain-cases-compatible-for/640134945178",
-    "source": "snapdeal"
+    "url": "https://www.snapdeal.com/product/zebronics-bro-in-ear-wired/673777456945#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
   },
   {
-    "name": "Foldable and Portable Tabletop Mobile Stand with Stable Base,Height and View Angle Adjustable Phone Stand,Ideal Mobile Holder for Smartphones,Tablets, Kindles",
-    "price": "Rs. 193",
+    "name": "Vertical9 Powerful Bass Type C Bluetooth Headphone Over Ear 6 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Multicolor",
+    "price": "Rs. 461",
+    "mrp": "Rs. 2,500",
+    "discount": "82% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/vertical9-powerful-bass-type-c/684634677852#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Vertical9True Wireless Bluetooth Earbuds Master Buds Long Backup Earbuds–multicolor",
+    "price": "Rs. 572",
+    "mrp": "Rs. 1,499",
+    "discount": "62% Off",
+    "rating": "100;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/vertical9true-wireless-bluetooth-earbuds-master/626936485095#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "XYBEL WRD-EPH-WHITE-1NOS 3.5 mm Wired Earphone In Ear Powerfull Bass White",
+    "price": "Rs. 185",
+    "mrp": "Rs. 799",
+    "discount": "77% Off",
+    "rating": "82;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/xybel-wrdephwhite1nos-35-mm-wired/676530607501#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo P9 Bluetooth Bluetooth Headphone On Ear 2 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Pink",
+    "price": "Rs. 476",
+    "mrp": "Rs. 1,299",
+    "discount": "63% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-p9-bluetooth-bluetooth-headphone/623983380932#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Portronics POR-2922 Type C Wired Earphone In Ear Passive Noise cancellation White",
+    "price": "Rs. 345",
+    "mrp": "Rs. 1,499",
+    "discount": "77% Off",
+    "rating": "86;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/portronics-por2922-type-c-wired/648103589420#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Vertical9 Wireless Bluetooth Bluetooth Headphone Over Ear 6 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Multicolor",
+    "price": "Rs. 461",
+    "mrp": "Rs. 2,400",
+    "discount": "81% Off",
+    "rating": "74;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/vertical9-wireless-bluetooth-bluetooth-headphone/661490202272#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Bhavi Wireless Neckband Bluetooth Earphone (HBS 730)",
+    "price": "Rs. 378",
+    "mrp": "Rs. 1,999",
+    "discount": "81% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/bhavi-for-redmimivivoopposamsung-bluetooth-neckband/621201976622#bcrumbLabelId:288",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Tantra T1000 In Ear Wired Earphone Hours Playback 3.5 mm IPX6(Water Resistant) Active Noise cancellation -Bluetooth Red",
+    "price": "Rs. 214",
+    "mrp": "Rs. 999",
+    "discount": "79% Off",
+    "rating": "78;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/tantra-t1000-in-ear-wired/651286785765",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "XYBEL WRD-EPH-WHITE-2NOS 3.5 mm Wired Earphone In Ear Powerfull Bass White",
+    "price": "Rs. 243",
+    "mrp": "Rs. 1,598",
+    "discount": "85% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/xybel-wrdephwhite2nos-35-mm-wired/671920400971",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo A1 PLUS Bluetooth Bluetooth Neckband On Ear 40 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Green",
+    "price": "Rs. 476",
+    "mrp": "Rs. 999",
+    "discount": "52% Off",
+    "rating": "82;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-a1-plus-bluetooth-bluetooth/680387186526",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "U7 In Ear Wired Earphones with Mic, Powerful Bass, 3.5mm Jack Wired Earphone - White",
+    "price": "Rs. 282",
+    "mrp": "Rs. 1,998",
+    "discount": "86% Off",
+    "rating": "94;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/u7-in-ear-wired-earphones/681877555254",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "COREGENIX M96 Sleep Bluetooth True Wireless (TWS) In Ear 20 Hours Playback Comfirtable in ear fit IPX4(Splash & Sweat Proof) Black",
+    "price": "Rs. 653",
+    "mrp": "Rs. 2,999",
+    "discount": "78% Off",
+    "rating": "74;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/coregenix-m96-sleep-bluetooth-true/630583573443",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Gionee Buddy EP5 Premium Wired Earphone with Mic(Black)",
+    "price": "Rs. 280",
+    "mrp": "Rs. 799",
+    "discount": "65% Off",
+    "rating": null,
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/gionee-buddy-ep5-premium-wired/670538632872",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo SH 12 On Ear Bluetooth Headphone 8 Hours Playback IPX4(Splash & Sweat Proof) Active Noise cancellation -Bluetooth Black",
+    "price": "Rs. 476",
+    "mrp": "Rs. 1,999",
+    "discount": "76% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-sh-12-on-ear/664245837706",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Digimate Jackbeat Wired Earphones with 3.5mm Jack, Tangle-Free Cable & In-Line Mic (DG-HF-1001, White)",
+    "price": "Rs. 187",
+    "mrp": "Rs. 199",
+    "discount": "6% Off",
+    "rating": "88;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/digimate-jackbeat-wired-earphones-with/623701450840",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "OLIVEOPS P9 Green Headphones Bluetooth Bluetooth Headphone On Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Green",
+    "price": "Rs. 494",
+    "mrp": "Rs. 2,999",
+    "discount": "84% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/oliveops-p9-green-headphones-bluetooth/638167353858",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "U7 Powerful Bass Wired Earphone, 3.5 mm Jack Wired Earphone In Ear Passive Noise cancellation White - 2 Pack",
+    "price": "Rs. 301",
+    "mrp": "Rs. 1,998",
+    "discount": "85% Off",
+    "rating": null,
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/u7-powerful-bass-wired-earphone/628805421173",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "U7 Powerful Bass Wired Earphone, In Ear Wired Earphones with Mic - Pack of 2",
+    "price": "Rs. 292",
+    "mrp": "Rs. 1,998",
+    "discount": "85% Off",
+    "rating": "84;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/u7-powerful-bass-wired-earphone/662494469879",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo P9 Bluetooth Bluetooth Headphone On Ear 2 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) White",
+    "price": "Rs. 476",
+    "mrp": "Rs. 1,299",
+    "discount": "63% Off",
+    "rating": "72;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-p9-bluetooth-bluetooth-headphone/643206928531",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "XYBEL WRD-EPH-WHITE-3NOS 3.5 mm Wired Earphone In Ear Powerfull Bass White",
+    "price": "Rs. 326",
+    "mrp": "Rs. 2,397",
+    "discount": "86% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/xybel-wrdephwhite3nos-35-mm-wired/651939024227",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "VEHOP D88 OWS Open Ear TWS Earbuds | 45 Hrs of Playtime | Bluetooth v5.4 with AI-ENC | Skin Friendly Ear Hook | Environmental Awareness | 45ms Low Latency Gaming | IPX5 Water & Sweat Resistant |",
+    "price": "Rs. 743",
+    "mrp": "Rs. 2,999",
+    "discount": "75% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/vehop-d88-ows-open-ear/665445940865",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo R11 3.5 mm Wired Earphone In Ear Active Noise cancellation White",
+    "price": "Rs. 181",
+    "mrp": "Rs. 999",
+    "discount": "82% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-r11-35-mm-wired/680516966361",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "U7 Powerful Bass Wired Earphone, 3.5 mm Jack Wired Earphone In Ear Passive Noise cancellation White - Pack of 2",
+    "price": "Rs. 311",
+    "mrp": "Rs. 1,998",
+    "discount": "84% Off",
+    "rating": "100;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/u7-powerful-bass-wired-earphone/682253924140",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo T2 NEW Bluetooth True Wireless (TWS) On Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+    "price": "Rs. 378",
+    "mrp": "Rs. 1,299",
+    "discount": "71% Off",
+    "rating": "74;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-t2-new-bluetooth-true/645109228898",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "XYBEL WRD-EPH-WHITE-2NOS 3.5 mm Wired Earphone In Ear Powerfull Bass White",
+    "price": "Rs. 259",
+    "mrp": "Rs. 1,598",
+    "discount": "84% Off",
+    "rating": "78;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/xybel-wrdephwhite2nos-35-mm-wired/636693591463",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Retailstore Powerfull Bass Over-the-ear Bluetooth Headset with Upto 5h Talktime Deep Bass - Blue",
+    "price": "Rs. 462",
+    "mrp": "Rs. 2,600",
+    "discount": "82% Off",
+    "rating": "78;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/retailstore-powerfull-bass-overtheear-bluetooth/666021995121",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo AREAL MEE Bluetooth Bluetooth Neckband On Ear 30 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+    "price": "Rs. 378",
+    "mrp": "Rs. 999",
+    "discount": "62% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-areal-mee-bluetooth-bluetooth/665031149926",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo P9 Bluetooth Bluetooth Headphone On Ear 2 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof)",
+    "price": "Rs. 455",
+    "mrp": "Rs. 999",
+    "discount": "54% Off",
+    "rating": "74;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-p9-bluetooth-bluetooth-headphone/628462315382",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "OLIVEOPS P9 Silver Headphones Bluetooth Bluetooth Headphone On Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Silver",
+    "price": "Rs. 494",
+    "mrp": "Rs. 1,999",
+    "discount": "75% Off",
+    "rating": "78;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/oliveops-p9-silver-headphones-bluetooth/678380614100",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo P9 Bluetooth Bluetooth Headphone On Ear 2 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Green",
+    "price": "Rs. 476",
+    "mrp": "Rs. 1,299",
+    "discount": "63% Off",
+    "rating": "96;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-p9-bluetooth-bluetooth-headphone/666260243434",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "OLIVEOPS P9 Blue Headphones Bluetooth Bluetooth Headphone On Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Blue",
+    "price": "Rs. 494",
+    "mrp": "Rs. 2,999",
+    "discount": "84% Off",
+    "rating": "78;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/oliveops-p9-blue-headphones-bluetooth/646141478264",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Vertical9 3D Sound Bluetooth Bluetooth Headphone Over Ear 6 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Multicolor",
+    "price": "Rs. 460",
+    "mrp": "Rs. 2,500",
+    "discount": "82% Off",
+    "rating": "72;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/vertical9-3d-sound-bluetooth-bluetooth/651943494734",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "OLIVEOPS P9 Red1 Headphones Bluetooth Bluetooth Headphone On Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Red",
+    "price": "Rs. 474",
+    "mrp": "Rs. 2,999",
+    "discount": "84% Off",
+    "rating": "78;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/oliveops-p9-red1-headphones-bluetooth/637648713296",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Retailstore Powerful Bass Over Ear TWS Green",
+    "price": "Rs. 462",
+    "mrp": "Rs. 1,900",
+    "discount": "76% Off",
+    "rating": "88;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/retailstore-powerful-bass-over-ear/686547766406",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "VEHOP D88 OWS Open Ear TWS Earbuds | 45 Hrs of Playtime | Bluetooth v5.4 with AI-ENC | Skin Friendly Ear Hook | Environmental Awareness | 45ms Low Latency Gaming | IPX5 Water & Sweat Resistant |",
+    "price": "Rs. 767",
+    "mrp": "Rs. 2,999",
+    "discount": "74% Off",
+    "rating": "86;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/vehop-d88-ows-open-ear/645018531201",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Vertical9 Long Backup Bluetooth Bluetooth Headphone Over Ear 6 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Multicolor",
+    "price": "Rs. 460",
+    "mrp": "Rs. 2,500",
+    "discount": "82% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/vertical9-long-backup-bluetooth-bluetooth/659725443568",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Retailstore Long Backup Over-the-ear Bluetooth Headset with Upto 5h Talktime Deep Bass - Green",
+    "price": "Rs. 462",
+    "mrp": "Rs. 2,500",
+    "discount": "82% Off",
+    "rating": "82;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/retailstore-long-backup-overtheear-bluetooth/657399046807",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "NEO P9 Bluetooth Bluetooth Headphone On Ear 2 Hours Playback With Trendy Sunglasses",
+    "price": "Rs. 553",
+    "mrp": "Rs. 999",
+    "discount": "45% Off",
+    "rating": "72;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-p9-bluetooth-bluetooth-headphone/662462996290",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "COREGENIX JS270 OWS Bluetooth True Wireless (TWS) On Ear 30 Hours Playback Low Latency,Powerfull bass IPX5(Splash & Sweat Proof) Yellow",
+    "price": "Rs. 681",
+    "mrp": "Rs. 2,999",
+    "discount": "77% Off",
+    "rating": "74;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/coregenix-js270-ows-bluetooth-true/666435168952",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "OLIVEOPS P9 Silver Headphones Bluetooth Bluetooth Headphone On Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Silver",
+    "price": "Rs. 494",
+    "mrp": "Rs. 2,999",
+    "discount": "84% Off",
+    "rating": "78;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/oliveops-p9-silver-headphones-bluetooth/665009156717",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "COREGENIX BQ40 Bluetooth True Wireless (TWS) In Ear 30 Hours Playback Magnetic earpeice,Low Latency IPX4(Splash & Sweat Proof) Black",
+    "price": "Rs. 869",
+    "mrp": "Rs. 2,999",
+    "discount": "71% Off",
+    "rating": "86;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/coregenix-bq40-bluetooth-true-wireless/673377434064",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "VEHOP CARBON Active Noise Cancellation TWS | ~32dB ANC & Transparency Mode | Upto 40Hrs Playtime | Bluetooth V5.4 | Quad Mics with AI-ENC | 40ms Low Latency Gaming | Breathing LED Lights Truly Wireless Earbuds",
+    "price": "Rs. 905",
+    "mrp": "Rs. 3,999",
+    "discount": "77% Off",
+    "rating": "100;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/vehop-carbon-active-noise-cancellation/643470594537",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "EarPods Pro 2nd with Deep Bass, Noise Cancelling, Dual Mic Calling, Gaming Low Latency, Bluetooth Earphones with Fast Charging Case and Long Playtime",
+    "price": "Rs. 275",
+    "mrp": "Rs. 999",
+    "discount": "72% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/earpods-pro-2nd-with-deep/680904230931",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "AIR PODS PRO Bluetooth True Wireless (TWS) In Ear 4 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+    "price": "Rs. 280",
     "mrp": "Rs. 599",
+    "discount": "53% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/air-pods-pro-bluetooth-true/662032512126",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Life Like Bluetooth Earbuds Earphone A10 Pro 2 Touch In Ear TWS White",
+    "price": "Rs. 264",
+    "mrp": "Rs. 1,999",
+    "discount": "87% Off",
+    "rating": "74;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/life-like-transparent-type-c/686397908747",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "AIR PRO PODS Bluetooth True Wireless (TWS) In Ear 4 Hours Playback Active Noise",
+    "price": "Rs. 280",
+    "mrp": "Rs. 999",
+    "discount": "72% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/air-pro-pods-bluetooth-true/659590326281",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "80 Hours Playtime Wireless Neckband headphones Earphone",
+    "price": "Rs. 387",
+    "mrp": "Rs. 1,999",
+    "discount": "81% Off",
+    "rating": "82;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/80-hours-playtime-wireless-neckband/642331698187",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "UBON 5300 Bluetooth Bluetooth Neckband In Ear 70 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Black",
+    "price": "Rs. 329",
+    "mrp": "Rs. 1,299",
+    "discount": "75% Off",
+    "rating": "74;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/ubon-5300-bluetooth-bluetooth-neckband/668899722652",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "AMR Wireless in Ear Earbuds with Mic",
+    "price": "Rs. 583",
+    "mrp": "Rs. 1,999",
+    "discount": "71% Off",
+    "rating": "70;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/amr-wireless-in-ear-earbuds/621362122920",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Life Like Bluetooth Neckband With 100 Hours Working Playtime - Black",
+    "price": "Rs. 469",
+    "mrp": "Rs. 2,499",
+    "discount": "81% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/life-like-bluetooth-neckband-with/661281873136",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Neo A1 PLUS Bluetooth Bluetooth Neckband On Ear 40 Hours Playback Active Noise cancellation IPX4(Splash & Sweat Proof) Assorted",
+    "price": "Rs. 378",
+    "mrp": "Rs. 999",
+    "discount": "62% Off",
+    "rating": "84;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/neo-a1-plus-bluetooth-bluetooth/676669672051",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "M19 Bluetooth 5.1 Earbuds in-Ear TWS Stereo Headphones with Smart LED",
+    "price": "Rs. 313",
+    "mrp": "Rs. 800",
+    "discount": "61% Off",
+    "rating": "84;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/m19-bluetooth-51-earbuds-inear/651368261598",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "U7 Tws Headphone, 30 hours of Playback and Deep Bass, Gaming, Fast Charging & Low Latency IPX7 (Water Resistant)",
+    "price": "Rs. 370",
+    "mrp": "Rs. 1,999",
+    "discount": "81% Off",
+    "rating": "82;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/u7-tws-headphone-30-hours/630741700407",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Life Like M10 Bluetooth Earbuds Earphones In Ear TWS Black",
+    "price": "Rs. 291",
+    "mrp": "Rs. 999",
+    "discount": "71% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/life-like-m10-sports-tws/681356904714",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "U7 K9 Wireless Microphone for Type-C Android & IOS Devices, Noise Reduction Lapel Mic for Youtubers, Video Recording, Facebook Live and Streaming",
+    "price": "Rs. 527",
+    "mrp": "Rs. 999",
+    "discount": "47% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/u7-k9-wireless-microphone-for/680042354148",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Bluetooth Earbuds With High Bass Sound In Ear TWS Black",
+    "price": "Rs. 360",
+    "mrp": "Rs. 1,200",
+    "discount": "70% Off",
+    "rating": "84;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/bluetooth-earbuds-with-high-bass/653376685918",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Bluetooth Neckband with long Playtime, Deep Bass, Stereo Sound, HD Calls, Magnetic Earbuds, Type-C Fast Charging, Rich Audio, Hollow Switch for Comfort & Style",
+    "price": "Rs. 285",
+    "mrp": "Rs. 1,500",
+    "discount": "81% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/bluetooth-neckband-with-long-playtime/630482358099",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Life Like A10 PRO 2 Bluetooth Earbuds In Ear TWS Black",
+    "price": "Rs. 273",
+    "mrp": "Rs. 1,499",
+    "discount": "82% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/life-like-a10-pro-in/661262075466",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "UCOOL Bullet Green Bluetooth Wireless Neckband In-the-ear Bluetooth Headset with Upto 30h Talktime True Wireless - Green",
+    "price": "Rs. 335",
+    "mrp": "Rs. 1,999",
+    "discount": "83% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/ucool-bluetooth-wireless-neckband-intheear/651815765815",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "U7 K9 Wireless Microphone for Type-C Android & IOS Devices, Noise Reduction Lapel Mic for Youtubers, Video Recording, Facebook Live and Streaming",
+    "price": "Rs. 517",
+    "mrp": "Rs. 999",
+    "discount": "48% Off",
+    "rating": "84;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/u7-k9-wireless-microphone-for/668357873336",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Rejuvenate Ultra Bass In Ear TWS Black",
+    "price": "Rs. 411",
+    "mrp": "Rs. 1,999",
+    "discount": "79% Off",
+    "rating": "86;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/rejuvenate-ultra-bass-in-ear/640216018358",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "UDDO Glory DeepBass Wireless Headset Neckband Magnetic ON/OFF Bluetooth Music Stereo Sound 30Hours Playback",
+    "price": "Rs. 291",
+    "mrp": "Rs. 1,499",
+    "discount": "81% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/uddo-glory-deepbass-wireless-headset/5764608199196150081",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "HOPPUP In-the-ear Bluetooth Headset with Upto 30h Talktime Deep Bass - Black",
+    "price": "Rs. 383",
+    "mrp": "Rs. 1,999",
+    "discount": "81% Off",
+    "rating": "72;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/hoppup-intheear-bluetooth-headset-with/653727365343",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Bluetooth TWS A10 PRO 2 Bluetooth Earbuds",
+    "price": "Rs. 267",
+    "mrp": "Rs. 1,000",
+    "discount": "73% Off",
+    "rating": "74;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/bluetooth-tws-a10-pro-2/677432447264",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Vertical9 Air Pro 2 USA MADE In Ear TWS White",
+    "price": "Rs. 707",
+    "mrp": "Rs. 2,999",
+    "discount": "76% Off",
+    "rating": "72;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/vertical9-air-pro-2-usa/638698598744",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "UDDO PLUTO Wireless Bluetooth Headset Neckband Magnetic ON/OFF Music Sound",
+    "price": "Rs. 292",
+    "mrp": "Rs. 1,499",
+    "discount": "81% Off",
+    "rating": "76;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/uddo-pluto-wireless-bluetooth-headset/5764608163345879238",
+    "source": "snapdeal",
+    "category": "laptops"
+  },
+  {
+    "name": "Erke In Ear TWS White",
+    "price": "Rs. 322",
+    "mrp": "Rs. 999",
     "discount": "68% Off",
     "rating": "80;",
     "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/foldable-and-portable-tabletop-mobile/638022519497",
-    "source": "snapdeal"
+    "url": "https://www.snapdeal.com/product/erke-in-ear-tws-white/665897259038",
+    "source": "snapdeal",
+    "category": "laptops"
   },
   {
-    "name": "BIG WINGS Shock Proof Case Compatible For Polycarbonate Samsung Galaxy S25 5g ( Pack of 1 )",
-    "price": "Rs. 288",
+    "name": "Lapster Gold Plated 2 Male to 1 Female 3.5mm Headphone Earphone Mic Audio Y Splitter Cable for PC Laptop – Black",
+    "price": "Rs. 183",
+    "mrp": "Rs. 799",
+    "discount": "77% Off",
+    "rating": "86;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/lapster-gold-plated-2-male/640459344818#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "80 Hours Playtime Wireless Neckband headphones Earphone",
+    "price": "Rs. 387",
+    "mrp": "Rs. 1,999",
+    "discount": "81% Off",
+    "rating": "82;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/80-hours-playtime-wireless-neckband/642331698187#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "M19 Bluetooth 5.1 Earbuds in-Ear TWS Stereo Headphones with Smart LED",
+    "price": "Rs. 313",
+    "mrp": "Rs. 800",
+    "discount": "61% Off",
+    "rating": "84;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/m19-bluetooth-51-earbuds-inear/651368261598#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "DEFLOC SPORTS 00 In Ear Wired With Mic Headphones/Earphones",
+    "price": "Rs. 181",
+    "mrp": "Rs. 1,999",
+    "discount": "91% Off",
+    "rating": "74;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/defloc-sports-00-in-ear/669152959291#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "Padmavathi Enterprises - Type C Male To Audio Jack Female Adapter Headphone Earphone Jack Aux Adapter for Type C Mobile - Pack Of 2",
+    "price": "Rs. 228",
+    "mrp": "Rs. 599",
+    "discount": "62% Off",
+    "rating": "20;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/padmavathi-enterprises-type-c-male/653728644643#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "U7 Tws Headphone, 30 hours of Playback and Deep Bass, Gaming, Fast Charging & Low Latency IPX7 (Water Resistant)",
+    "price": "Rs. 370",
+    "mrp": "Rs. 1,999",
+    "discount": "81% Off",
+    "rating": "82;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/u7-tws-headphone-30-hours/630741700407#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "VEhop BNB-02 10Hrs PlayTime with Mic Neckband Wireless With Mic Headphones/Earphones Assorted",
+    "price": "Rs. 363",
+    "mrp": "Rs. 1,999",
+    "discount": "82% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/vehop-bnb02-10hrs-playtime-with/647433568614#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "60 Hours Red Playtime Bluetooth Wireless Neckband headphones Earphone",
+    "price": "Rs. 291",
+    "mrp": "Rs. 1,599",
+    "discount": "82% Off",
+    "rating": "82;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/60-hours-red-playtime-bluetooth/656602143495#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "80 Hours Playtime Wireless Neckband headphones Earphone",
+    "price": "Rs. 527",
+    "mrp": "Rs. 3,599",
+    "discount": "85% Off",
+    "rating": "80;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/80-hours-playtime-wireless-neckband/634727514361#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "Raptor 80 Hours Gold Playtime Wireless Neckband headphones Earphone",
+    "price": "Rs. 362",
+    "mrp": "Rs. 1,999",
+    "discount": "82% Off",
+    "rating": "84;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/raptor-80-hours-gold-playtime/678561228012#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "60 Hour Green Playtime Bluetooth Wireless Neckband headphones Earphone Airdopes",
+    "price": "Rs. 292",
     "mrp": "Rs. 1,499",
     "discount": "81% Off",
+    "rating": "78;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/60-hour-green-playtime-bluetooth/654770867856#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "Tws Ultrapods display bluetooth, Earbuds Pro + 3 in 1 data fast cable , Bluetooth Headphone + 3 in 1 charging cable",
+    "price": "Rs. 386",
+    "mrp": "Rs. 2,999",
+    "discount": "87% Off",
     "rating": null,
     "availability": "in_stock",
-    "url": "https://www.snapdeal.com/product/big-wings-shock-proof-case/8070451152566247559",
-    "source": "snapdeal"
+    "url": "https://www.snapdeal.com/product/tws-ultrapods-display-bluetooth-earbuds/639615989943#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "Raptor 80 Hours Green Playtime Wireless Neckband headphones Earphone",
+    "price": "Rs. 371",
+    "mrp": "Rs. 1,999",
+    "discount": "81% Off",
+    "rating": "84;",
+    "availability": "in_stock",
+    "url": "https://www.snapdeal.com/product/raptor-80-hours-green-playtime/672640414887#bcrumbSearch:",
+    "source": "snapdeal",
+    "category": "earphones"
+  },
+  {
+    "name": "GAMING HEADPHONE WITH HIGH BASS EARBUDS",
+    "price": "Rs. 474",
+    "mrp": null,
+    "discount": null,
+    "rating": null,
+    "availability": "in_stock",
+    "url": null,
+    "source": "snapdeal",
+    "category": "earphones"
   }
 ]
