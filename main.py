@@ -1,6 +1,7 @@
 import json
 import logging
 from scrapers.snapdeal_scraper import SnapdealScraper
+from database.db import save_products
 
 logging.basicConfig(
     level=logging.INFO,
@@ -24,10 +25,6 @@ CATEGORIES = [
         "name": "tablets",
         "url": "https://www.snapdeal.com/products/mobiles-tablets"
     },
-    {
-        "name": "smartwatches",
-        "url": "https://www.snapdeal.com/products/mobiles-smart-watches"
-    },
 ]
 
 all_products = []
@@ -43,7 +40,12 @@ for category in CATEGORIES:
 
 print(f"\nTotal products collected: {len(all_products)}")
 
+# Save to JSON
 with open("data/snapdeal_products.json", "w", encoding="utf-8") as f:
     json.dump(all_products, f, ensure_ascii=False, indent=2)
-
 print("Saved to data/snapdeal_products.json")
+
+# Save to database
+print("\nSaving to database...")
+products_saved, prices_saved = save_products(all_products)
+print(f"Done! {products_saved} new products and {prices_saved} price records saved to database")
