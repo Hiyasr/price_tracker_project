@@ -1,0 +1,17 @@
+[
+  {
+    "started_at": "2026-06-20 12:51:36",
+    "finished_at": "2026-06-20 12:53:23",
+    "duration_seconds": 107.0,
+    "categories": {
+      "smartphones": 60,
+      "laptops": 60,
+      "earphones": 60,
+      "tablets": 60
+    },
+    "total_products_collected": 240,
+    "new_products_saved": 27,
+    "price_records_saved": 240,
+    "errors": []
+  }
+]
